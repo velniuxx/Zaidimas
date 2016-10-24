@@ -1,0 +1,6 @@
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\bin\Release\Kazkoks zaidimukas.exe.config
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\bin\Release\Kazkoks zaidimukas.exe
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\bin\Release\Kazkoks zaidimukas.pdb
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\obj\Release\Kazkoks zaidimukas.exe
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\obj\Release\Kazkoks zaidimukas.pdb
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\obj\Release\Kazkoks zaidimukas.csprojResolveAssemblyReference.cache

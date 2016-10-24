@@ -1,0 +1,6 @@
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\bin\Debug\Kazkoks zaidimukas.exe.config
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\bin\Debug\Kazkoks zaidimukas.exe
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\bin\Debug\Kazkoks zaidimukas.pdb
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\obj\Debug\Kazkoks zaidimukas.csprojResolveAssemblyReference.cache
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\obj\Debug\Kazkoks zaidimukas.exe
+F:\Kazkoks zaidimukas\Kazkoks zaidimukas\Kazkoks zaidimukas\obj\Debug\Kazkoks zaidimukas.pdb
